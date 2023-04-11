@@ -1,0 +1,26 @@
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\net6.0-windows\Hastane Randevu Sistemi.exe
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\net6.0-windows\Hastane Randevu Sistemi.deps.json
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\net6.0-windows\Hastane Randevu Sistemi.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\net6.0-windows\Hastane Randevu Sistemi.dll
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\net6.0-windows\Hastane Randevu Sistemi.pdb
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane Randevu Sistemi.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane_Randevu_Sistemi.BransFormu.resources
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane_Randevu_Sistemi.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane_Randevu_Sistemi.OnayFormu.resources
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane Randevu Sistemi.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane Randevu Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane Randevu Sistemi.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane Randevu Sistemi.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane Randevu Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane Randevu Sistemi.csproj.CopyComplete
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane Randevu Sistemi.dll
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\refint\Hastane Randevu Sistemi.dll
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane Randevu Sistemi.pdb
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\Hastane Randevu Sistemi.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\emirinamk\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\net6.0-windows\ref\Hastane Randevu Sistemi.dll
